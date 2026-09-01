@@ -11,7 +11,7 @@
 <a href="https://github.com/Arnavdsp?tab=followers">
   <img src="https://img.shields.io/github/followers/Arnavdsp?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0F172A" alt="followers"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto: arnavhpd@gmail.com@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-22D3EE?style=for-the-badge&labelColor=0F172A" alt="email"/>
 </a>
 <a href="#">
