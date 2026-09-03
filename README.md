@@ -165,10 +165,10 @@ Geospatial deep-learning pipeline using semantic segmentation and object detecti
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/arnav-deshpande-26a792290/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:arnavhpd@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="#">
