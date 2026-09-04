@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Arnav Deshpande banner" src="./dark.svg">
+  <img alt="Arnav Deshpande - AI Engineering" src="./dark.svg">
 </picture>
 
 <br>
@@ -17,22 +17,31 @@
 <a href="https://www.linkedin.com/in/arnav-deshpande-26a792290/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://arnav-portfolio-arp8-dc7rqha06-arnav-deshpande.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
 
 </div>
 
 <br>
 
-## About Me
+## AI Engineering
 
-I am a **B.Tech student in Space Sciences & Engineering at IIT Indore**, working at the intersection of **machine learning, computer vision, deep learning, and astrophysics**.
+I am a **B.Tech student at IIT Indore** specializing in **Space Sciences & Engineering**, with a strong focus on **AI Engineering, Machine Learning, Deep Learning, and Computer Vision**.
 
-My work focuses on building practical ML systems that extract meaningful signals from complex and noisy data. I am particularly interested in **computer vision, object detection, time-series analysis, anomaly detection, and scientific machine learning**.
+I build and experiment with intelligent systems across **computer vision, autonomous systems, scientific machine learning, time-series intelligence, and applied AI**. My engineering approach combines mathematical foundations with hands-on model development, experimentation, evaluation, and real-world problem solving.
 
-- Currently researching **AI-driven Gamma-Ray Burst classification** at IIT Indore using machine learning pipelines, UMAP, and unsupervised anomaly detection on astrophysical time-series data.
-- Developing my **B.Tech Project** on optical transient classification, targeting **supernovae, AGN, stellar flares, and TDEs** using ZTF and Rubin Observatory photometric data.
-- Building **YUKTIYANA**, a long-term personal project focused on developing a multi-modal **UAV/UGV morphobot** with autonomous perception and coordinated robotic behavior.
-- Completed an **ML internship at DRDO RCI, Hyderabad**, where I developed a high-altitude tiny-object detection pipeline for aerial imagery.
-- Built a foundation in **Engineering Physics**, with coursework spanning quantum mechanics, electrodynamics, statistical mechanics, and applied machine learning.
+My background in engineering physics gives me a strong foundation for understanding complex systems, while my work across research, robotics, and applied ML allows me to translate that foundation into practical AI solutions.
+
+### What I Work On
+
+- **AI & Machine Learning** — supervised and unsupervised learning, representation learning, anomaly detection, model evaluation, and applied ML pipelines.
+- **Deep Learning & Computer Vision** — object detection, image processing, semantic segmentation, super-resolution, and vision-based systems.
+- **AI for Scientific Data** — machine learning for astrophysical time-series, high-dimensional data, and scientific discovery.
+- **Intelligent & Autonomous Systems** — perception, swarm intelligence, robotics, and AI-driven decision systems.
+- **Applied AI Engineering** — building end-to-end workflows from data preparation and experimentation to model evaluation and deployment-oriented pipelines.
+
+Currently, I am applying these skills across **AI research, computer vision, autonomous systems, and scientific computing**.
 
 <br>
 
@@ -40,12 +49,12 @@ My work focuses on building practical ML systems that extract meaningful signals
 
 <table>
 <tr>
-<td width="160"><b>May - Jun 2026</b></td>
+<td width="170"><b>May - Jun 2026</b></td>
 <td>
 
-<b>ML Intern - DRDO RCI, Hyderabad</b>
+<b>Machine Learning Intern — DRDO RCI, Hyderabad</b>
 
-Developed a high-altitude tiny-object detection pipeline using <b>YOLOv12-L, YOLOv26-L, and RT-DETR-L</b>. Improved detection workflows for low-resolution aerial imagery using <b>SAHI tiled inference</b> and <b>ESRGAN/SwinIR super-resolution</b> preprocessing.
+Developed a **high-altitude tiny-object detection pipeline** for low-resolution aerial imagery. Evaluated and worked with **YOLOv12-L, YOLOv26-L, and RT-DETR-L**, while improving the inference pipeline through **SAHI tiled inference** and **ESRGAN/SwinIR super-resolution** preprocessing.
 
 </td>
 </tr>
@@ -54,9 +63,9 @@ Developed a high-altitude tiny-object detection pipeline using <b>YOLOv12-L, YOL
 <td><b>May 2025 - Present</b></td>
 <td>
 
-<b>Undergraduate Research Intern - IIT Indore</b>
+<b>Undergraduate Research Intern — IIT Indore</b>
 
-Developing AI-driven methods for <b>Gamma-Ray Burst reconnaissance and classification</b>. Built ML pipelines incorporating feature analysis, <b>UMAP dimensionality reduction</b>, and unsupervised anomaly detection for astrophysical time-series data.
+Developing AI/ML methods for **Gamma-Ray Burst reconnaissance and classification**. Designed analytical pipelines incorporating feature engineering, **UMAP dimensionality reduction**, and **unsupervised anomaly detection** for high-dimensional astrophysical time-series data.
 
 </td>
 </tr>
@@ -67,7 +76,7 @@ Developing AI-driven methods for <b>Gamma-Ray Burst reconnaissance and classific
 
 <b>Google DeepMind Hackathon</b>
 
-Developed an <b>AI-powered conversational mental health counsellor</b>, focusing on conversational intelligence, contextual responses, and user-oriented interaction.
+Developed an **AI-powered conversational mental health counsellor**, exploring conversational AI, contextual interaction, and user-oriented intelligent systems.
 
 </td>
 </tr>
@@ -75,15 +84,17 @@ Developed an <b>AI-powered conversational mental health counsellor</b>, focusing
 
 <br>
 
-## Featured Projects
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [DRDO Internship - Tiny Object Detection](https://github.com/Arnavdsp/DRDO-Internship-Overview)
+### [Tiny Object Detection for Aerial Imagery](https://github.com/Arnavdsp/DRDO-Internship-Overview)
 
-Developed a high-altitude tiny-object detection pipeline using **YOLOv12-L, RT-DETR-L, SAHI tiled inference, and GAN-based super-resolution** for low-resolution aerial imagery.
+Built a computer vision pipeline for **tiny-object detection in high-altitude aerial imagery**, evaluating modern detection architectures including **YOLOv12-L and RT-DETR-L**.
+
+Integrated **SAHI tiled inference** and **GAN-based super-resolution** to address challenges associated with small, low-resolution targets.
 
 `Python` `PyTorch` `YOLO` `RT-DETR` `SAHI`
 
@@ -91,11 +102,13 @@ Developed a high-altitude tiny-object detection pipeline using **YOLOv12-L, RT-D
 
 <td width="50%" valign="top">
 
-### GRB Classification & Analysis
+### AI-Based GRB Classification & Anomaly Detection
 
-Designed a machine-learning pipeline for **Gamma-Ray Burst reconnaissance**, combining feature analysis, **UMAP dimensionality reduction**, and unsupervised anomaly detection for astrophysical time-series data.
+Developing an ML pipeline for **Gamma-Ray Burst reconnaissance**, combining feature analysis, dimensionality reduction, and unsupervised learning.
 
-`Python` `Scikit-learn` `UMAP` `Astrophysics`
+Applied **UMAP** and anomaly detection techniques to investigate structure and outliers within high-dimensional astrophysical time-series data.
+
+`Python` `Scikit-learn` `UMAP` `Time Series`
 
 </td>
 </tr>
@@ -105,9 +118,9 @@ Designed a machine-learning pipeline for **Gamma-Ray Burst reconnaissance**, com
 
 ### Optical Transient Classification
 
-Developing a classification pipeline for **supernovae, AGN, stellar flares, and TDEs** using ZTF/Rubin photometric light curves.
+Developing an AI pipeline to classify **supernovae, AGN, stellar flares, and TDEs** from ZTF/Rubin photometric light curves.
 
-The pipeline combines **Gaussian Process interpolation, wavelet-based features, and Random Forest classification**, achieving **94.3% test accuracy** on the current 3-class split.
+The current workflow combines **Gaussian Process interpolation, wavelet-based features, and Random Forest classification**, achieving **94.3% test accuracy** on the current 3-class split.
 
 `Python` `Astropy` `Lightkurve` `Random Forest`
 
@@ -117,9 +130,9 @@ The pipeline combines **Gaussian Process interpolation, wavelet-based features, 
 
 ### [Swarm-Tech-Algo](https://github.com/Arnavdsp/Swarm-Tech-Algo)
 
-Implementing **swarm-intelligence algorithms** for coordinated multi-drone behavior, forming part of the autonomy stack for the YUKTIYANA morphobot platform.
+Developing **swarm-intelligence algorithms** for coordinated multi-drone behavior, contributing to the autonomy and coordination concepts behind the **YUKTIYANA** morphobot platform.
 
-`Python` `Swarm Intelligence` `Robotics`
+`Python` `Swarm Intelligence` `Autonomous Systems`
 
 </td>
 </tr>
@@ -129,7 +142,7 @@ Implementing **swarm-intelligence algorithms** for coordinated multi-drone behav
 
 ### [Line-Following Robot](https://github.com/Arnavdsp/Line-following-Robot)
 
-Built an autonomous **IR-guided line-following robot**, implementing embedded control logic and sensor-based navigation.
+Built an autonomous **IR-guided mobile robot**, implementing embedded control, sensor-based navigation, and real-time decision logic.
 
 `C++` `Embedded Systems` `Robotics`
 
@@ -137,9 +150,9 @@ Built an autonomous **IR-guided line-following robot**, implementing embedded co
 
 <td width="50%" valign="top">
 
-### Water Bridge Detection via Satellite Imagery
+### Water Bridge Detection from Satellite Imagery
 
-Developing a geospatial deep-learning pipeline for **water bridge detection** using semantic segmentation and object detection on multi-spectral satellite imagery.
+Developing a geospatial computer vision pipeline for **water bridge detection** using semantic segmentation and object detection on multi-spectral satellite imagery.
 
 `Python` `Deep Learning` `Semantic Segmentation` `Remote Sensing`
 
@@ -149,7 +162,7 @@ Developing a geospatial deep-learning pipeline for **water bridge detection** us
 
 <br>
 
-## Technical Skills
+## Technical Stack
 
 <div align="center">
 
@@ -168,6 +181,35 @@ Developing a geospatial deep-learning pipeline for **water bridge detection** us
 
 <br>
 
+### AI / ML
+
+`Machine Learning` `Deep Learning` `Computer Vision` `Object Detection` `Anomaly Detection` `Time-Series Analysis` `Dimensionality Reduction` `Model Evaluation`
+
+### Engineering
+
+`Python` `PyTorch` `OpenCV` `Scikit-learn` `NumPy` `Pandas` `C++` `Linux` `Git`
+
+### Applied Domains
+
+`Autonomous Systems` `Robotics` `Remote Sensing` `Scientific ML` `Astrophysics`
+
+<br>
+
+## Current Focus
+
+I am currently focused on becoming a stronger **end-to-end AI Engineer** — moving beyond individual models toward the design of reliable AI systems.
+
+My current areas of development include:
+
+- Building robust **ML/DL pipelines**
+- Developing stronger **computer vision systems**
+- Learning modern **Generative AI and LLM architectures**
+- Improving model evaluation, experimentation, and optimization
+- Understanding **AI system design and deployment**
+- Combining perception, learning, and decision-making in autonomous systems
+
+<br>
+
 ## GitHub Analytics
 
 <div align="center">
@@ -178,13 +220,13 @@ Developing a geospatial deep-learning pipeline for **water bridge detection** us
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnavdsp&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnavdsp&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
 
 <br>
 
-## Connect With Me
+## Let's Connect
 
 <div align="center">
 
@@ -197,7 +239,7 @@ Developing a geospatial deep-learning pipeline for **water bridge detection** us
 </a>
 
 <a href="https://arnav-portfolio-arp8-dc7rqha06-arnav-deshpande.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 </div>
@@ -206,7 +248,7 @@ Developing a geospatial deep-learning pipeline for **water bridge detection** us
 
 <div align="center">
 
-<sub>Building at the intersection of machine learning, computer vision, robotics, and astrophysics.</sub>
+<sub>Engineering intelligent systems across AI, perception, autonomy, and scientific computing.</sub>
 
 </div>
 
