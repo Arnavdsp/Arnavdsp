@@ -6,192 +6,211 @@
   <img alt="Arnav Deshpande banner" src="./dark.svg">
 </picture>
 
-<br/>
+<br>
 
 <a href="https://github.com/Arnavdsp?tab=followers">
-  <img src="https://img.shields.io/github/followers/Arnavdsp?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0F172A" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/Arnavdsp?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0F172A" alt="GitHub followers">
 </a>
-<a href="mailto: arnavhpd@gmail.com@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-22D3EE?style=for-the-badge&labelColor=0F172A" alt="email"/>
+<a href="mailto:arnavhpd@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-22D3EE?style=for-the-badge&labelColor=0F172A" alt="Email">
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Open%20to-ML%2FCV%20Roles-10B981?style=for-the-badge&labelColor=0F172A" alt="open to work"/>
+<a href="https://www.linkedin.com/in/arnav-deshpande-26a792290/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
 
-<br/>
+<br>
 
-### About Me
+## About Me
 
-I'm a B.Tech student in **Space Sciences & Engineering at IIT Indore**, working at the intersection of **computer vision, deep learning, and astrophysics**. I build models that find signal in noisy, high-dimensional data â€” whether that's tiny objects in high-altitude drone imagery or optical transients buried in years of telescope photometry.
+I am a **B.Tech student in Space Sciences & Engineering at IIT Indore**, working at the intersection of **machine learning, computer vision, deep learning, and astrophysics**.
 
-- ðŸ”­ Currently researching **AI-driven Gamma-Ray Burst classification** at IIT Indore (ML pipelines, UMAP, unsupervised anomaly detection on astrophysical time series)
-- ðŸ›°ï¸ Building a **B.Tech Project** classifying optical transients (supernovae, AGN, stellar flares, TDEs) from ZTF / Rubin Observatory light curves
-- ðŸš Long-running personal project: **YUKTIYANA**, a multi-modal UAV/UGV morphobot
-- ðŸ§  Interned at **DRDO RCI, Hyderabad**, building a high-altitude tiny-object detection pipeline
-- ðŸŒ± Background in Engineering Physics: quantum mechanics, electrodynamics, statistical mechanics, and applied ML/DL
+My work focuses on building practical ML systems that extract meaningful signals from complex and noisy data. I am particularly interested in **computer vision, object detection, time-series analysis, anomaly detection, and scientific machine learning**.
 
-<br/>
+- Currently researching **AI-driven Gamma-Ray Burst classification** at IIT Indore using machine learning pipelines, UMAP, and unsupervised anomaly detection on astrophysical time-series data.
+- Developing my **B.Tech Project** on optical transient classification, targeting **supernovae, AGN, stellar flares, and TDEs** using ZTF and Rubin Observatory photometric data.
+- Building **YUKTIYANA**, a long-term personal project focused on developing a multi-modal **UAV/UGV morphobot** with autonomous perception and coordinated robotic behavior.
+- Completed an **ML internship at DRDO RCI, Hyderabad**, where I developed a high-altitude tiny-object detection pipeline for aerial imagery.
+- Built a foundation in **Engineering Physics**, with coursework spanning quantum mechanics, electrodynamics, statistical mechanics, and applied machine learning.
 
-### ðŸ§ª Experience
+<br>
+
+## Experience
 
 <table>
 <tr>
-<td width="140"><b>Mayâ€“Jun 2026</b></td>
+<td width="160"><b>May - Jun 2026</b></td>
 <td>
 
-**ML Intern â€” DRDO RCI, Hyderabad**
-Built a high-altitude tiny-object detection pipeline using **YOLOv12-L, YOLOv26-L, and RT-DETR-L**, with **SAHI tiled inference** and **ESRGAN/SwinIR super-resolution** preprocessing for low-resolution aerial imagery.
+<b>ML Intern - DRDO RCI, Hyderabad</b>
+
+Developed a high-altitude tiny-object detection pipeline using <b>YOLOv12-L, YOLOv26-L, and RT-DETR-L</b>. Improved detection workflows for low-resolution aerial imagery using <b>SAHI tiled inference</b> and <b>ESRGAN/SwinIR super-resolution</b> preprocessing.
 
 </td>
 </tr>
+
 <tr>
-<td><b>May 2025â€“Present</b></td>
+<td><b>May 2025 - Present</b></td>
 <td>
 
-**Undergraduate Research Intern â€” IIT Indore**
-AI-driven Gamma-Ray Burst reconnaissance and analysis using ML pipelines, UMAP dimensionality reduction, and unsupervised anomaly detection on astrophysical time series.
+<b>Undergraduate Research Intern - IIT Indore</b>
+
+Developing AI-driven methods for <b>Gamma-Ray Burst reconnaissance and classification</b>. Built ML pipelines incorporating feature analysis, <b>UMAP dimensionality reduction</b>, and unsupervised anomaly detection for astrophysical time-series data.
 
 </td>
 </tr>
+
 <tr>
-<td><b>Jun 2025â€“Present</b></td>
+<td><b>Jun 2025 - Present</b></td>
 <td>
 
-**Google DeepMind Hackathon**
-Built an AI-powered mental health counsellor conversational agent.
+<b>Google DeepMind Hackathon</b>
+
+Developed an <b>AI-powered conversational mental health counsellor</b>, focusing on conversational intelligence, contextual responses, and user-oriented interaction.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
-### ðŸš€ Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[DRDO Internship â€” Tiny Object Detection](https://github.com/Arnavdsp/DRDO-Internship-Overview)**
-High-altitude tiny-object detection with YOLOv12-L / RT-DETR-L, SAHI tiled inference, and GAN-based super-resolution preprocessing on VisDrone-class imagery.
+### [DRDO Internship - Tiny Object Detection](https://github.com/Arnavdsp/DRDO-Internship-Overview)
+
+Developed a high-altitude tiny-object detection pipeline using **YOLOv12-L, RT-DETR-L, SAHI tiled inference, and GAN-based super-resolution** for low-resolution aerial imagery.
 
 `Python` `PyTorch` `YOLO` `RT-DETR` `SAHI`
 
 </td>
+
 <td width="50%" valign="top">
 
-**GRB Classification & Analysis**
-Machine-learning pipeline for gamma-ray burst reconnaissance â€” UMAP + unsupervised anomaly detection over astrophysical time-series data.
+### GRB Classification & Analysis
 
-`Python` `Scikit-learn` `UMAP`
+Designed a machine-learning pipeline for **Gamma-Ray Burst reconnaissance**, combining feature analysis, **UMAP dimensionality reduction**, and unsupervised anomaly detection for astrophysical time-series data.
+
+`Python` `Scikit-learn` `UMAP` `Astrophysics`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**Optical Transient Classification (B.Tech Project)**
-Classifies supernovae, AGN, stellar flares, and TDEs from ZTF/Rubin photometric light curves using Gaussian Process interpolation, wavelet features, and Random Forest â€” **94.3% test accuracy** on the 3-class split.
+### Optical Transient Classification
 
-`Python` `Astropy` `lightkurve` `Random Forest`
+Developing a classification pipeline for **supernovae, AGN, stellar flares, and TDEs** using ZTF/Rubin photometric light curves.
+
+The pipeline combines **Gaussian Process interpolation, wavelet-based features, and Random Forest classification**, achieving **94.3% test accuracy** on the current 3-class split.
+
+`Python` `Astropy` `Lightkurve` `Random Forest`
 
 </td>
+
 <td width="50%" valign="top">
 
-**[Swarm-Tech-Algo](https://github.com/Arnavdsp/Swarm-Tech-Algo)**
-Swarm-intelligence algorithms for coordinated multi-drone behavior â€” building blocks for the YUKTIYANA morphobot platform.
+### [Swarm-Tech-Algo](https://github.com/Arnavdsp/Swarm-Tech-Algo)
 
-`Python` `Swarm Robotics`
+Implementing **swarm-intelligence algorithms** for coordinated multi-drone behavior, forming part of the autonomy stack for the YUKTIYANA morphobot platform.
+
+`Python` `Swarm Intelligence` `Robotics`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**[Line-Following Robot](https://github.com/Arnavdsp/Line-following-Robot)**
-Autonomous IR-guided line-following robot â€” embedded control + sensor fusion fundamentals.
+### [Line-Following Robot](https://github.com/Arnavdsp/Line-following-Robot)
 
-`C++` `Embedded Systems`
+Built an autonomous **IR-guided line-following robot**, implementing embedded control logic and sensor-based navigation.
+
+`C++` `Embedded Systems` `Robotics`
 
 </td>
+
 <td width="50%" valign="top">
 
-**Water Bridge Detection via Satellite Imagery**
-Geospatial deep-learning pipeline using semantic segmentation and object detection on multi-spectral satellite imagery.
+### Water Bridge Detection via Satellite Imagery
 
-`Python` `Semantic Segmentation` `Remote Sensing`
+Developing a geospatial deep-learning pipeline for **water bridge detection** using semantic segmentation and object detection on multi-spectral satellite imagery.
+
+`Python` `Deep Learning` `Semantic Segmentation` `Remote Sensing`
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
-### ðŸ› ï¸ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 
 </div>
 
-<br/>
+<br>
 
-### ðŸ“Š GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Arnavdsp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnavdsp&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Arnavdsp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnavdsp&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnavdsp&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnavdsp&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
 </div>
 
-<br/>
+<br>
 
-### ðŸ“« Connect
+## Connect With Me
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/arnav-deshpande-26a792290/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/arnav-deshpande-26a792290/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="mailto:arnavhpd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-arnavhpd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<a href="https://arnav-portfolio-arp8-dc7rqha06-arnav-deshpande.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 </div>
 
+<br>
+
 <div align="center">
-<sub>Built with a hand-crafted animated SVG banner â€” no third-party generator.</sub>
+
+<sub>Building at the intersection of machine learning, computer vision, robotics, and astrophysics.</sub>
+
 </div>
 
 <!--
-**Arnavdsp/Arnavdsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Arnavdsp/Arnavdsp is a special repository because its README.md
+appears on the GitHub profile page.
 -->
