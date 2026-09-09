@@ -130,7 +130,7 @@ The current workflow combines **Gaussian Process interpolation, wavelet-based fe
 
 ### [Swarm-Tech-Algo](https://github.com/Arnavdsp/Swarm-Tech-Algo)
 
-Developing **swarm-intelligence algorithms** for coordinated multi-drone behavior, contributing to the autonomy and coordination concepts behind the **YUKTIYANA** morphobot platform.
+Developing **swarm-intelligence algorithms** for coordinated multi-drone behavior, contributing to the autonomy and coordination concepts .
 
 `Python` `Swarm Intelligence` `Autonomous Systems`
 
