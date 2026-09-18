@@ -86,53 +86,41 @@ Developed an **AI-powered conversational mental health counsellor**, exploring c
 
 ## Selected Projects
 
+<h2>Selected Projects</h2>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Tiny Object Detection for Aerial Imagery](https://github.com/Arnavdsp/DRDO-Internship-Overview)
+<h3><a href="https://github.com/Arnavdsp/DocuMind">DocuMind — Document Intelligence & Grounded RAG</a></h3>
 
-Built a computer vision pipeline for **tiny-object detection in high-altitude aerial imagery**, evaluating modern detection architectures including **YOLOv12-L and RT-DETR-L**.
+<p>
+Built an end-to-end <strong>RAG system for grounded document question answering</strong>,
+with page-aware PDF extraction, OCR fallback, persistent embeddings, vector retrieval,
+reranking, grounding thresholds, source citations, and explicit abstention when evidence
+is insufficient.
+</p>
 
-Integrated **SAHI tiled inference** and **GAN-based super-resolution** to address challenges associated with small, low-resolution targets.
-
-`Python` `PyTorch` `YOLO` `RT-DETR` `SAHI`
-
-</td>
-
-<td width="50%" valign="top">
-
-### AI-Based GRB Classification & Anomaly Detection
-
-Developing an ML pipeline for **Gamma-Ray Burst reconnaissance**, combining feature analysis, dimensionality reduction, and unsupervised learning.
-
-Applied **UMAP** and anomaly detection techniques to investigate structure and outliers within high-dimensional astrophysical time-series data.
-
-`Python` `Scikit-learn` `UMAP` `Time Series`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Optical Transient Classification
-
-Developing an AI pipeline to classify **supernovae, AGN, stellar flares, and TDEs** from ZTF/Rubin photometric light curves.
-
-The current workflow combines **Gaussian Process interpolation, wavelet-based features, and Random Forest classification**, achieving **94.3% test accuracy** on the current 3-class split.
-
-`Python` `Astropy` `Lightkurve` `Random Forest`
+<p>
+<strong>Stack:</strong> Python · FastAPI · React · PyTorch · Sentence Transformers · PyTesseract · NumPy
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### [Swarm-Tech-Algo](https://github.com/Arnavdsp/Swarm-Tech-Algo)
+<h3><a href="https://github.com/Arnavdsp/Automatron">Automatron — Multi-Agent Decision Support</a></h3>
 
-Developing **swarm-intelligence algorithms** for coordinated multi-drone behavior, contributing to the autonomy and coordination concepts .
+<p>
+Engineered a <strong>multi-agent AI system</strong> with coordinator, researcher, analyst,
+and executor roles across space, quantitative finance, e-commerce, and real-estate
+workflows, using tool-grounded outputs, deterministic verification, human approval gates,
+and auditable decision traces.
+</p>
 
-`Python` `Swarm Intelligence` `Autonomous Systems`
+<p>
+<strong>Stack:</strong> Python · LangGraph · LlamaIndex · Qdrant · Multi-LLM Routing · FastAPI · Docker · Cloud Run
+</p>
 
 </td>
 </tr>
@@ -140,27 +128,73 @@ Developing **swarm-intelligence algorithms** for coordinated multi-drone behavio
 <tr>
 <td width="50%" valign="top">
 
-### [Line-Following Robot](https://github.com/Arnavdsp/Line-following-Robot)
+<h3><a href="https://github.com/Arnavdsp/DRDO-Internship-Overview">Tiny Object Detection for Aerial Imagery</a></h3>
 
-Built an autonomous **IR-guided mobile robot**, implementing embedded control, sensor-based navigation, and real-time decision logic.
+<p>
+Developed a <strong>task-driven tiny-object detection pipeline</strong> for high-altitude
+aerial imagery, combining RT-DETR-L with ESRGAN/SwinIR super-resolution, SAHI
+slicing, and NWD-based localization to address extremely small and low-resolution
+targets.
+</p>
 
-`C++` `Embedded Systems` `Robotics`
+<p>
+<strong>Stack:</strong> Python · PyTorch · RT-DETR · ESRGAN · SwinIR · SAHI · NWD · Computer Vision
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Water Bridge Detection from Satellite Imagery
+<h3><a href="https://github.com/Arnavdsp/Aura-The-Mental-Wellness-Coach">Aura — Multimodal AI Wellness Coach</a></h3>
 
-Developing a geospatial computer vision pipeline for **water bridge detection** using semantic segmentation and object detection on multi-spectral satellite imagery.
+<p>
+Built a <strong>multimodal Gemma 3n application</strong> supporting text, voice, and image
+inputs with streaming responses, conversational memory, affect estimation, crisis
+screening, and a preference-tuning pipeline using DPO/SFT with behavioural evaluation.
+</p>
 
-`Python` `Deep Learning` `Semantic Segmentation` `Remote Sensing`
+<p>
+<strong>Stack:</strong> Python · Gemma 3n · PyTorch · Transformers · DPO · FastAPI · SSE · SpeechT5
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/Arnavdsp/Decentralized-Drone-Swarm">Decentralized Drone Swarm</a></h3>
+
+<p>
+Designed a <strong>decentralized multi-drone autonomy stack</strong> combining distributed
+formation control, cooperative payload lifting, UDP mesh communication, RT-DETR aerial
+detection, NWD-based tracking, and fault-aware mission state management.
+</p>
+
+<p>
+<strong>Stack:</strong> Python · RT-DETR · NWD · MAVLink · Raspberry Pi · Distributed Control · Computer Vision
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/Arnavdsp/Research-Internship-IITI-DAASE-Overview">GRB Analysis & Unsupervised ML</a></h3>
+
+<p>
+Developed an astrophysical ML pipeline for <strong>Gamma-Ray Burst light curves</strong>,
+covering wavelet denoising, Fourier and temporal features, PCA/UMAP dimensionality
+reduction, HDBSCAN clustering, and controlled simulations to distinguish astrophysical
+structure from preprocessing and noise artefacts.
+</p>
+
+<p>
+<strong>Stack:</strong> Python · NumPy · SciPy · Scikit-learn · UMAP · HDBSCAN · PyWavelets · Time-Series ML
+</p>
 
 </td>
 </tr>
 </table>
-
-<br>
 
 ## Technical Stack
 
