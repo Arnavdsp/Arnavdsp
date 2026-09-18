@@ -25,7 +25,7 @@
 
 <br>
 
-## AI Engineering
+## AI Engineer | ML Engineer| Forward Deployed Engineer| Data Engineer & LLMops| Computer Vision and Space science Engineer
 
 I am a **B.Tech student at IIT Indore** specializing in **Space Sciences & Engineering**, with a strong focus on **AI Engineering, Machine Learning, Deep Learning, and Computer Vision**.
 
