@@ -39,16 +39,28 @@ An end-to-end grounded document Q&A system with page-aware extraction, retrieval
 - Built for: grounded document AI
 - Focus: retrieval quality, evidence attribution, abstention, production-style RAG design
 - Link: https://github.com/Arnavdsp/DocuMind
+### 3) DRDO-Internship-Overview
+Built and evaluated an end-to-end high-altitude tiny object detection pipeline using state-of-the-art machine learning, deep learning, and transformer-based computer vision techniques.
+- Built for: Improving the Detection Capabilities of Modern-Day/Upcoming AI-integrated Drone Systems
+- Focus : Real-time object detection, loss optimization, Defence Research
+- Link : https://github.com/Arnavdsp/DRDO-Internship-Overview
 
-### 3) Automatron
+
+### 4) Automatron
 A multi-agent decision-support system with deterministic validation, workflow design, and human approval gates for high-risk decision tasks.
 
 - Built for: agent orchestration and structured reasoning
 - Focus: task decomposition, verification, auditability, workflow reliability
 - Link: https://github.com/Arnavdsp/Automatron
+  
+### 5) Aura - The Mental Wellness Agent
+A multimodal mental wellness agent powered by  Gemma 3n, optimized for Mental Wellness through PEFT using LORA and DPO.
+- Built for: Multimodal Analysis of the User's Mental Health
+- Focus : Analysis, Reasoning, Reliability
+- Link: https://github.com/Arnavdsp/Aura-The-Mental-Wellness-Coach
 
-### 4) AI Systems Lab
-A research scratchpad for experiments in agent planning, retrieval evaluation, quantization, caching, and benchmarking.
+### 6) AI Systems Lab
+A research scratchpad for experiments in agent planning, retrieval evaluation, quantization, caching, and benchmarking and logging my learning throughout the Year.
 
 - Built for: AI systems research and iteration
 - Focus: understanding trade-offs in real LLM systems
