@@ -12,7 +12,7 @@ B.Tech, Space Science & Engineering, IIT Indore. I build LLM systems (retrieval,
 | [DocuMind](https://github.com/Arnavdsp/DocuMind) | Document Q&A over PDFs: hybrid retrieval, reranking, citations, and abstaining when the evidence isn't there |
 | [DRDO-Internship-Overview](https://github.com/Arnavdsp/DRDO-Internship-Overview) | Internship work: tiny-object detection on VisDrone2019-DET with RT-DETR |
 | [Automatron](https://github.com/Arnavdsp/Automatron) | Multi-agent decision-support workflows with validation steps and human approval gates |
-| [Aura](https://github.com/Arnavdsp/Aura-The-Mental-Wellness-Coach) | Google Gemma 3n hackathon entry: a wellness assistant fine-tuned with LoRA and DPO |
+| [Aura](https://github.com/Arnavdsp/Aura-The-Mental-Wellness-Coach) | Google Gemma 3n hackathon entry: a multimodal wellness coach with crisis screening, plus LoRA/DPO training code |
 | [ai-systems-lab](https://github.com/Arnavdsp/ai-systems-lab) | Small experiments with tests: DAG planning, rank fusion, retrieval metrics, memory estimates |
 
 ## Working with
