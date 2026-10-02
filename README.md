@@ -101,19 +101,10 @@ In practice, that means:
 ## GitHub stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arnavdsp&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnavdsp&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
-## What I do not claim
 
-I do not claim to have a finished production suite in every repo. Some repositories are experimental research, some are portfolio systems, and some are personal explorations.
-
-The important thing is that the work is focused on real AI systems problems, and the strongest projects are the ones that show:
-- strong architecture
-- evaluation or measurement
-- uncertainty handling
-- end-to-end thinking
 
 ## Contact
 
