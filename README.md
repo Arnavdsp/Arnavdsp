@@ -18,7 +18,7 @@ Currently pursuing **B.Tech in Space Science & Engineering at IIT Indore**. My w
 | [DocuMind](https://github.com/Arnavdsp/DocuMind) | PDF RAG with hybrid retrieval, reranking, citations, and abstention |
 | [Automatron](https://github.com/Arnavdsp/Automatron) | Multi-agent workflows with validation and human approval |
 | [Evaluation Assurance](https://github.com/Arnavdsp/Evaluation-assurance-for-Deccan-AI) | Detecting questionable LLM evaluator PASS decisions |
-| [ai-systems-lab](https://github.com/Arnavdsp/ai-systems-lab) | Experiments in agents, retrieval, evaluation, and inference |
+| [ai-systems-lab](https://github.com/Arnavdsp/ai-systems-lab) |A Scratchpad for Experiments in agents, retrieval, evaluation, and inference |
 | [DRDO Internship](https://github.com/Arnavdsp/DRDO-Internship-Overview) | RT-DETR and tiny-object detection on VisDrone |
 
 ---
