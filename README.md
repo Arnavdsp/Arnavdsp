@@ -64,7 +64,9 @@ A research prototype on synthetic data with known ground truth. It asks: when an
 ## Stack
 
 **LLM systems** `LangGraph` `LlamaIndex` `MCP` `Qdrant` `Sentence Transformers` `Hugging Face`
+
 **ML / CV** `PyTorch` `scikit-learn` `RT-DETR` `YOLO` `SAHI` `ESRGAN` `SwinIR` `OpenCV`
+
 **Engineering** `Python` `FastAPI` `Docker` `pytest` `GitHub Actions` `Cloud Run`
 
 ---
