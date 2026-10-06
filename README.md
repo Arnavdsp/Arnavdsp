@@ -41,7 +41,7 @@ A multimodal mental wellness coach built with **Gemma 3n**, combining conversati
 `Gemma 3n` · `Multimodal AI` · `OCR` · `LoRA` · `DPO` . [demo](https://huggingface.co/spaces/ADP123456/aura-wellness-coach)
 
 ### [Automatron](https://github.com/Arnavdsp/Automatron) · multi-agent decision support
-LangGraph workflows with four roles: coordinator, researcher, analyst and executor. Each role has a tool allowlist enforced in code. A deterministic verifier rejects any decision brief containing a number that no tool produced, and sends it back through a capped revision loop. Every run stops at a human approval gate and is recorded in a hash-chained audit log. A model router fails over across 6 providers on rate limits or context overflow. Deployed to Cloud Run through GitHub Actions. All bundled data is synthetic.
+LangGraph workflows with four roles: coordinator, researcher, analyst and executor. Each role has a tool allowlist enforced in code. A deterministic verifier rejects any decision brief containing a number that no tool produced, and sends it back through a capped revision loop. Every run stops at a human approval gate and is recorded in a hash-chained audit log. A model router fails over across 6 providers on rate limits or context overflow. Deployed to Cloud Run through GitHub Actions. All bundled data is synthetic. ( Currently not Live...Do Contact me if you want to see it in action or know more about it)
 `LangGraph` `LlamaIndex` `Qdrant` `FastAPI` `Cloud Run` · [live](https://automatron-413625269952.us-central1.run.app/)
 
 ### [Evaluation Assurance](https://github.com/Arnavdsp/Evaluation-assurance-for-Deccan-AI) · auditing an LLM judge
