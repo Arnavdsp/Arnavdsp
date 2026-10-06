@@ -34,6 +34,12 @@ Six MCP tools over SEC EDGAR filings, scored against 25 hand-verified questions 
 PDF and image Q&A that retrieves by vector similarity, then reranks with lexical overlap or a cross-encoder. Every answer is tied to chunk, page and snippet. When evidence is too thin, a code path returns "not enough information" before the model can make up an answer. Sparse pages fall back to Tesseract OCR, which records its confidence and flags low-quality extractions.
 `RAG` `reranking` `pdfplumber` `Tesseract` `FastAPI` `Docker` · [demo](https://huggingface.co/spaces/ADP123456/DocuMind)
 
+### [Aura](https://github.com/Arnavdsp/Aura-The-Mental-Wellness-Coach)
+
+A multimodal mental wellness coach built with **Gemma 3n**, combining conversational AI, OCR, and safety-aware response handling. The project also explores **LoRA fine-tuning and DPO** for adapting model behaviour.
+
+`Gemma 3n` · `Multimodal AI` · `OCR` · `LoRA` · `DPO` . [demo](https://huggingface.co/spaces/ADP123456/aura-wellness-coach)
+
 ### [Automatron](https://github.com/Arnavdsp/Automatron) · multi-agent decision support
 LangGraph workflows with four roles: coordinator, researcher, analyst and executor. Each role has a tool allowlist enforced in code. A deterministic verifier rejects any decision brief containing a number that no tool produced, and sends it back through a capped revision loop. Every run stops at a human approval gate and is recorded in a hash-chained audit log. A model router fails over across 6 providers on rate limits or context overflow. Deployed to Cloud Run through GitHub Actions. All bundled data is synthetic.
 `LangGraph` `LlamaIndex` `Qdrant` `FastAPI` `Cloud Run` · [live](https://automatron-413625269952.us-central1.run.app/)
